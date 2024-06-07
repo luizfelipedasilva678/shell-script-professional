@@ -1,3 +1,3 @@
 # Shell script professional
 
-Examples in Shell script from the book Shell Script Professional by Aurelio Marinho Jargas
+Programs I wrote while reading "Shell Script Profissional" by Aurelio Marinho Jargas
