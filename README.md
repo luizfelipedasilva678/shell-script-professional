@@ -1,3 +1,3 @@
 # Shell script professional
 
-Programs I wrote while reading "Shell Script Profissional" by Aurelio Marinho Jargas
+Some notes taken while reading “Shell Script Professional” by Aurelio Marinho Jargas
