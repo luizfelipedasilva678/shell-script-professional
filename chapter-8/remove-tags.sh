@@ -1,0 +1,1 @@
+echo "<p><b><i>negrito itálico</i></b></p>" | sed "s/<[^>]*>//g"
